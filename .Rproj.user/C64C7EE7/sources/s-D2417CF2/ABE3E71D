@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531558361731.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ABE3E71D",
+    "lastKnownWriteTime" : 1531559610,
+    "last_content_update" : 1531559610535,
+    "path" : "C:/Users/Administrator/rlangweekend/Project180714/ReadExcelFile.R",
+    "project_path" : "ReadExcelFile.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

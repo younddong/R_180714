@@ -1,0 +1,14 @@
+
+## read Excel file 
+
+install.packages("readxl")
+
+library(readxl)
+
+df_exam <- read_excel("C:/Users/Administrator/rlangweekend/Project180714/excel_exam.xlsx")
+
+df_exam <- read_excel("excel_exam.xlsx")
+
+
+df_exam
+
